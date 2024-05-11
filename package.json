@@ -11,5 +11,5 @@
     "server": "nodemon backend/server.js",
     "client": "cd frontend && npm start built",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
-  },
+  }
 }
