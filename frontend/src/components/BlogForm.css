@@ -1,0 +1,81 @@
+#headBanner {
+    background-color: #151515;
+    color: azure;
+    font-weight: bold;
+    font-size: 200%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 4%;
+  }
+  #addBlogButton {
+    background-color: #38A169;
+    margin-right: 5%;
+  }
+  #viewBlogButton {
+    background-color: #151515;
+    color: azure;
+  }
+  .headerButtons {
+    font-size: 50%;
+    float: right;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 15%;
+    border: 2px #151515;
+    margin-right: 3%;
+  }
+  #blogForm {
+    margin-top: 3%;
+    background-color: #151515;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10%;
+  }
+  .blogHeading {
+    color: azure;
+    font-weight: 470;
+    font-size: 120%;
+    margin-bottom: 2%;
+}
+.blogSet {
+    background-color: #151515;
+    border: 1.5px solid azure;
+    border-radius: 10%;
+    width: 95%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color: azure;
+    font-weight: 450;
+}
+#followingHeadings {
+    margin-top: 3%;
+}
+.contentSet {
+    background-color: #151515;
+    border: 1.5px solid azure;
+    border-radius: 10%;
+    width: 95%;
+    padding-top: 1.5%;
+    padding-bottom: 10%;
+    color: azure;
+    font-weight: 450;
+}
+.postBlogButton {
+    background-color: #38A169;
+    border: 1.5px solid black;
+    border-radius: 15%;
+    width: 95%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    font-weight: bold;
+    color: azure;
+}
