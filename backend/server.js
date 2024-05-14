@@ -4,9 +4,8 @@ const { MongoClient, ServerApiVersion } = require('mongodb');
 const cors = require('cors');
 
 const app = express();
-const uri = "mongodb+srv://EA:213361eA@cluster0.5fcxqip.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"; // Ensure this environment variable is set
+const uri = "mongodb+srv://EA:213361eA@cluster0.5fcxqip.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
-// Create a new MongoClient
 const client = new MongoClient(uri, {
   serverApi: ServerApiVersion.v1
 });
